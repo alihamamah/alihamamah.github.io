@@ -23,4 +23,4 @@ git log
 git branch <name_of_the_feature_OR_ticket_number>
 ```
 - In order to avoid merge conflicts on develop branch, I learnt to merge the develop branch first into the feature branch, solve any potential merge conflicts and then create the pull request into develop.
-- If I have questions, I always try to read the documentation first https://git-scm.com/docs
+- If I have questions, I always try to read the [documentation](https://git-scm.com/docs) first.
